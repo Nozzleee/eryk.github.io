@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/eryk.github.io/static/css/main.de4db4b1.css",
+    "main.js": "/eryk.github.io/static/js/main.34a400c0.js",
+    "static/media/profile.jpg": "/eryk.github.io/static/media/profile.2cdbfa402c3e659ee1fb.jpg",
+    "static/media/project2.jpg": "/eryk.github.io/static/media/project2.5fae296d371cc56cd98a.jpg",
+    "static/media/project4.jpg": "/eryk.github.io/static/media/project4.a7b7ed11daa072b234eb.jpg",
+    "static/media/project3.jpg": "/eryk.github.io/static/media/project3.03535c34c110b7ea292b.jpg",
+    "static/media/logo.svg": "/eryk.github.io/static/media/logo.0bad282e338a9971ebc84d7e1098fd15.svg",
+    "static/media/project5.jpg": "/eryk.github.io/static/media/project5.f78aa3fd070fc4dd0bd1.jpg",
+    "static/media/logo2.svg": "/eryk.github.io/static/media/logo2.8748cd4b53ed338faabde58af993f30a.svg",
+    "static/media/project6.jpg": "/eryk.github.io/static/media/project6.a22c939898d6c4613b65.jpg",
+    "index.html": "/eryk.github.io/index.html",
+    "main.de4db4b1.css.map": "/eryk.github.io/static/css/main.de4db4b1.css.map",
+    "main.34a400c0.js.map": "/eryk.github.io/static/js/main.34a400c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de4db4b1.css",
+    "static/js/main.34a400c0.js"
+  ]
+}
